@@ -671,8 +671,8 @@ a, a:visited, a:link {
   }
 
   .bgStatus .majorPills {
-    font-size: 55px;
-    line-height: 60px;
+    font-size: 75px;
+    line-height: 80px;
   }
 
   .bgStatus .minorPills {
@@ -686,8 +686,8 @@ a, a:visited, a:link {
   }
 
   .statusPills {
-    font-size: 15px;
-    line-height: 17px;
+    font-size: 75px;
+    line-height: 80px;
   }
 
 }
